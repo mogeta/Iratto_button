@@ -1,0 +1,29 @@
+{
+  "deviceInfo": {
+    "deviceId": "GXXXXXXXXXXXXXXX",
+    "type": "button",
+    "remainingLife": 98.7,
+    "attributes": {
+      "projectName": "iratto",
+      "projectRegion": "us-west-2",
+      "placementName": "none",
+      "deviceTemplateName": "iratto"
+    }
+  },
+  "deviceEvent": {
+    "buttonClicked": {
+      "clickType": "SINGLE",
+      "reportedTime": "2018-06-06T06:06:06.604Z"
+    }
+  },
+  "placementInfo": {
+    "projectName": "iratto",
+    "placementName": "none",
+    "attributes": {
+      "key": "value1"
+    },
+    "devices": {
+      "lightButton":"GXXXXXXXXXXXXXXX"
+    }
+  }
+}
